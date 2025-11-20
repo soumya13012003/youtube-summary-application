@@ -1,0 +1,6 @@
+
+flask
+pytube
+# Optional (speech-to-text):
+# faster-whisper
+# openai
